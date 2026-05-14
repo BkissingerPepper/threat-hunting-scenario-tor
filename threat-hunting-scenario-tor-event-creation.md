@@ -76,7 +76,7 @@ DeviceFileEvents
 
 ## Created By:
 - **Author Name**: Brandon Kissinger
-- **Author Contact**: https://www.linkedin.com/in/brandonkissinger/
+- **Author Contact**: https://www.linkedin.com/in/brandon-kissinger-b52a386/ 
 - **Date**: August 31, 2024
 
 ## Validated By:
